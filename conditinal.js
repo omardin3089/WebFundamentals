@@ -14,4 +14,4 @@ function rewardMySelf(workoutFinishOnTime){
 
 }
 
-rewardMySelf(9)
+rewardMySelf(23)
